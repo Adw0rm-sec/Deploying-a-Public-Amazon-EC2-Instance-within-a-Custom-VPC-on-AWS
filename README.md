@@ -4,6 +4,10 @@ Deploying a Public Amazon EC2 Instance within a Custom VPC on AWS
 Objective:
 To design, implement, and configure a secure, scalable infrastructure in AWS by launching an EC2 instance within a Virtual Private Cloud (VPC), ensuring controlled internet access through proper subnetting, route table configuration, and the use of an Internet Gateway (IGW). This environment serves as a foundational setup for hosting web applications, development servers, or remote-accessible services.
 
+Architecture:
+
+![image](https://github.com/user-attachments/assets/15f18a21-0ee9-45b9-ba1d-07727e182740)
+
 Architecture Overview:
 
 The implemented architecture includes the following components:
